@@ -12,15 +12,7 @@ titanic-survival-prediction/
 ├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_preprocessing.ipynb
-│   └── 03_model_training.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│   ├── evaluation.py
-│   └── train.py
-│
-├── results/                # Saved evaluation plots
-├── requirements.txt
+│   └── 03_model.ipynb
+│   └── 04_interpretation.ipynb
 └── README.md
 ```
