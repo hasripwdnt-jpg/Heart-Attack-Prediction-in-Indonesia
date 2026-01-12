@@ -1,6 +1,5 @@
 # 🫀 Heart Attack Prediction in Indonesia
-This is my first ever machine learning project
-An end to end machine learning project to predict whether an individual in Indonesia is at risk of experiencing a heart attack (heartattack = 0/1) based on demographic, clinical, lifestyle, and environmental factors using logistic regression 
+This is my first ever machine learning project, an end to end machine learning project to predict whether an individual in Indonesia is at risk of experiencing a heart attack (heartattack = 0/1) based on demographic, clinical, lifestyle, and environmental factors using logistic regression 
 ## 📂 Project Structure
 ```
 titanic-survival-prediction/
@@ -14,5 +13,6 @@ titanic-survival-prediction/
 │   ├── 02_preprocessing.ipynb
 │   └── 03_model.ipynb
 │   └── 04_interpretation.ipynb
+│
 └── README.md
 ```
